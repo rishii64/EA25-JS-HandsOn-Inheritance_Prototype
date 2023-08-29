@@ -25,6 +25,7 @@ img{
 .answers{
     display: grid;
     place-items: center;
+    gap: 20px;
 }
 .bg{
     animation:slide 3s ease-in-out infinite alternate;
